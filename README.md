@@ -10,4 +10,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-[GERANIEL DE OLIVEIRA MOTTA - Curso Angular_ ciclo de vida - Alura.pdf](https://github.com/user-attachments/files/17506946/GERANIEL.DE.OLIVEIRA.MOTTA.-.Curso.Angular_.ciclo.de.vida.-.Alura.pdf)
+
+![Captura de Tela 2024-10-24 às 09 40 44](https://github.com/user-attachments/assets/1c52a3de-921a-4509-9c1f-f854ec1ebb97)
